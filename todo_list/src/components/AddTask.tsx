@@ -52,7 +52,7 @@ const AddTask = () => {
                             Close
                         </button>
                         <button
-                            className="bg-blue-500 text-white p-2 rounded-lg"
+                            className="ml-2.5 bg-blue-500 text-white p-2 rounded-lg"
                             onClick={onSubmit}
                         >
                             Submit
